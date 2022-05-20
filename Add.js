@@ -1,2 +1,2 @@
-let st="ezhilarasi"
-console.log(st+str)
+let st="teemu"
+console.log(st)
