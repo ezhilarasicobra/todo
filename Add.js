@@ -1,2 +1,3 @@
 let st="ezhilarasi"
-console.log(st)
+let r="ammu"
+console.log(st,r)
