@@ -1,3 +1,2 @@
-let st="ezhilarasi"
-let r="ammu"
-console.log(st,r)
+let str="ezhil"
+console.log(str)
